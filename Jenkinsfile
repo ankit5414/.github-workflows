@@ -23,3 +23,6 @@ pipeline {
         }
     }
 }
+git add Jenkinsfile
+git commit -m "Add Jenkinsfile for CI"
+git push origin main
